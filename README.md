@@ -2,7 +2,7 @@
 
 # Food Sales Predictions
 
-## Analyzing food sales across different outlets 
+## Analyzing Food Sales Across Different Outlets Types 
 Edmar Dos Santos
 
 ### Business are always trying to find a way to make the most ammount of money and spend the least. They also want to know which products are driving most of thier sales and which products are producing the highest ROI.
