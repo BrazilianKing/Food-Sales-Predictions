@@ -1,3 +1,5 @@
+![data science face](https://user-images.githubusercontent.com/123523010/224358015-f17e7602-e997-4785-af5f-f972a0435a5b.jpg)
+
 # Food Sales Predictions
 
 ## Analyzing food sales across different outlets 
