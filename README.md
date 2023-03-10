@@ -8,11 +8,11 @@ Edmar Dos Santos
 ### Business are always trying to find a way to make the most ammount of money and spend the least. They also want to know which products are driving most of thier sales and which products are producing the highest ROI.
 
 ## Data: 
-https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
+https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view 
 For this dataset, there were 8523 rows and 12 columns.
 
 Methods
-Data preparation steps with explanation and justification for choices
+To prepare this data, the data was cleaned, and the following processes were performed:
 Results
 Here are examples of how to embed images from your sub-folder
 Visual 1 Title
