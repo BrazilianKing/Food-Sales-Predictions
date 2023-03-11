@@ -13,10 +13,11 @@ For this dataset, there were 8523 rows and 12 columns.
 
 Methods
 To prepare this data, the data was cleaned, and the following processes were performed:
-Results
+We sliced, flitered, searched for duplicates and dropped any coloumns that we felt were not import for this particual project.
+
 Here are examples of how to embed images from your sub-folder
 Visual 1 Title
-sample image
+
 
 Sentence about visualization.
 
