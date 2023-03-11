@@ -15,13 +15,11 @@ Methods
 To prepare this data, the data was cleaned, and the following processes were performed:
 We sliced, flitered, searched for duplicates and dropped any coloumns that we felt were not import for this particual project.
 
-Here are examples of how to embed images from your sub-folder
 ## Visual 1 Title
 ![Item type vs MRP](https://user-images.githubusercontent.com/123523010/224516762-aae7f265-b85a-4413-a417-3c9f2fc678a9.png)
 
 
-Sentence about visualization.
-
+Here in this data we are comparing the item types to the MRP to determine which item types requier more time and quantity of materials to complete a production process.
 Visual 2 Title
 Model
 Describe your final model
