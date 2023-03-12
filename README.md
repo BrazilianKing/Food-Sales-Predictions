@@ -36,7 +36,7 @@ We sliced, flitered, searched for duplicates and dropped any coloumns that we fe
 ### RMSE(Root Mean Squared Error) : 1091.27
 
 ### This means the number is slightly higher because their were some test that had higher variance from the predictions. It impacts the total dollar amount because they are further away.
-These two metrics can help us predict new sales data within $1,100.
+### These two metrics can help us predict new sales data within $1,100.
 
 # Recommendations
 ### I would recommend checking the other models to see if we can find any improvments in our data.
