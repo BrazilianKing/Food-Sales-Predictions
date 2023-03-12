@@ -28,15 +28,22 @@ Based upon this scatterplot it is very clear that there is a strong positive cor
 
 Describe your final model
 
-Report the most important metrics
+Results of Models
+The Decision Tree Model was chosen for this set of data
+Decision Tree Model Test Scores
+R^2(R-Squared Score): 0.162
 
-Refer to the metrics to describe how well the model would solve the business problem
+This score can be interpreted as saying that our model can account for about 16% of the variation in y_test using the features in X_test.
 
-Recommendations:
-More of your own text here
+RMSE(Root Mean Squared Error) : 1091.27
 
-Limitations & Next Steps
-More of your own text here
+This means the number is slightly higher because their were some test that had higher variance from the predictions. It impacts the total dollar amount because they are further away.
+These two metrics can help us predict new sales data within $1,100.
 
-For further information
-For any additional questions, please contact email
+Recommendations
+I would recommend checking the other models to see if we can find any improvments in our data.
+
+Next Steps
+I would say that more data needs to be include and to run more models with the new data being included.
+
+For futher questions, please email Edmar Dos Santos at edmardossantos85@gmail.com
