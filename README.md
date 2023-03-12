@@ -21,7 +21,7 @@ We sliced, flitered, searched for duplicates and dropped any coloumns that we fe
 
 Here in this data we are comparing the item types to the MRP to determine which item types requier more time and quantity of materials to complete a production process.
 
-#Visual 2 Title
+# Visual 2 Title
 ![outlet sales vs item MRP](https://user-images.githubusercontent.com/123523010/224517004-d8be19d7-70b0-4d92-b15d-fb833aa8d66e.png)
 
 Based upon this scatterplot it is very clear that there is a strong positive correlation between Item MRP and Item Outlet Sales. So the higher the MRP and item has the more sales that in generates in the outlets
