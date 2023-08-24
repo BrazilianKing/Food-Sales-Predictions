@@ -42,7 +42,7 @@ We sliced, flitered, searched for duplicates and dropped any coloumns that we fe
 ### I would recommend checking the other models to see if we can find any improvments in our data.
 
 # Next Steps
-### I would say that more data needs to be include and to run more models with the new data being included.
+### More data is needs to be include and to run more models with the new data being included.
 
 # For futher questions: 
 ### Please email Edmar Dos Santos at edmardossantos85@gmail.com
