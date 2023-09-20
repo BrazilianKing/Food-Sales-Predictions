@@ -3,17 +3,16 @@
 # Food Sales Predictions
 
 ## Analyzing Food Sales Across Different Outlets Types 
-Edmar Dos Santos
 
 ### Business are always trying to find a way to make the most ammount of money and spend the least. They also want to know which products are driving most of thier sales and which products are producing the highest ROI.
 
 ## Data: 
 https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view 
 
-### For this dataset, there were 8523 rows and 12 columns.
+### This dataset has 8523 rows and 12 columns.
 
 # Methods
-### To prepare this data, the data was cleaned, and the following processes were performed:
+### Data was cleaned, and the following processes were performed:
 We sliced, flitered, searched for duplicates and dropped any coloumns that we felt were not import for this particual project.
 
 # Visual 1 Title
